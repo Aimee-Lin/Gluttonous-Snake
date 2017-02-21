@@ -1,0 +1,5 @@
+1.全局安装  npm install -g cordova ionic
+2.创建ionic项目  ionic start myApp tabs     //start 表示创建一个项目  myApp项目名称 tabs项目的模板
+3.进入到你下载的ionic项目中
+4.添加platform    ionic platform add android
+5.将当前的项目进行打包  ionic build android  //在这个步骤的时候时间可能会非常长
